@@ -10,7 +10,7 @@ body {
 
 .card {
     background: color(white);
-    border-radius: 70px;
+    border-radius: 4px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Sombra más prominente */
     padding: 40px; /* Aumenta el padding para más espacio */
     width: 90%; /* Ancho responsivo */
@@ -118,17 +118,6 @@ h3 {
     text-align: left;
 }
 
-.imagen-texto {
-    display: block;
-    margin-top: 10px;
-    }
 
-img {
-    display: inline;  /* Logos con hipervicunlos */
-    width: 58px;  
-    height: 58px;
-    padding: 5px;
-    border-radius: 20px;
 
-}
 

@@ -107,6 +107,11 @@ h1 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /*Cambio de fuente a todos los titulos h1*/
     text-align: left; /*Para agregar el texto a la Izquierda */
 }
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; /* Modificacion tipo de letra de la Posicion */
+    color: rgb(152, 159, 165);
+    text-align: left;
+}
 
 p {
    font-size: 16px; /* Para cambiar el tamano  de letra a los parrafos */
